@@ -1,0 +1,27 @@
+{
+  "owners": [{
+    "name": "Petro",
+    "surname": "Petrov",
+    "address": "Chudnivska 73",
+    "city": "Berdychiv",
+    "phone": "5743312859"
+  },
+  {
+    "name": "Ihor",
+    "surname": "Kolomoyskiy",
+    "address": "Miru 45",
+    "city": "Dnipro",
+    "phone": "0986546571"
+  }
+],
+  "vets": [
+    {
+      "name": "Vasya",
+      "surname": "Pupkin"
+    },
+    {
+      "name": "Rinat",
+      "surname": "Akhmetov"
+    }
+  ]
+}
